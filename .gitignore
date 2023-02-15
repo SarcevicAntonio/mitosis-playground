@@ -1,5 +1,2 @@
 node_modules
-output/react/src/Count.jsx
-output/solid/src/Count.jsx
-output/svelte/src/Count.svelte
-output/vue/vue3/src/Count.vue
+output
